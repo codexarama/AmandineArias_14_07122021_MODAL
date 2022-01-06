@@ -127,27 +127,29 @@
 /* custom focus styles when keyboard nav */
 .modal-container--close:focus {
   outline: none;
-  box-shadow: 0 0 0 3px var(--light);
+  box-shadow: 0 0 0 3px var(--close);
   border-radius: 100px;
 }
 
-h2:focus {
+.modal-header--title:focus {
   outline: none;
   box-shadow: 0 0 0 1.5px var(--tertiary);
   border-radius: 0.25rem;
 }
 
-button:focus {
+.modal-footer--btn1:focus,
+.modal-footer--btn2:focus {
   outline: none;
   box-shadow: 0 0 0 1.5px var(--secondary);
 }
 
-button.disabled:focus {
+.disabled:focus {
   outline: none;
   box-shadow: 0 0 0 1.5px var(--diabled-text);
 }
 
-p:focus {
+.modal-main--msgL1:focus,
+.modal-main--msgL1:focus {
   outline: none;
   box-shadow: 0 0 0 1.5px var(--primary);
   border-radius: 0.25rem;
