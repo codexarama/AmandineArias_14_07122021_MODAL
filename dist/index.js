@@ -3,6 +3,12 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+Object.defineProperty(exports, "ARIA", {
+  enumerable: true,
+  get: function get() {
+    return _codexaramaModal_ARIA.default;
+  }
+});
 Object.defineProperty(exports, "EXEMPLE", {
   enumerable: true,
   get: function get() {
@@ -63,6 +69,8 @@ var _codexaramaModal_FEATURES = _interopRequireDefault(require("./documentation/
 var _codexaramaModal_PROPS = _interopRequireDefault(require("./documentation/codexarama-modal_PROPS.PNG"));
 
 var _codexaramaModal_MORE = _interopRequireDefault(require("./documentation/codexarama-modal_MORE.PNG"));
+
+var _codexaramaModal_ARIA = _interopRequireDefault(require("./documentation/codexarama-modal_ARIA.png"));
 
 var _codexaramaModal_EXEMPLE = _interopRequireDefault(require("./documentation/codexarama-modal_EXEMPLE.PNG"));
 

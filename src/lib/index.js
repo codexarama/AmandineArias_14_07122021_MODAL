@@ -2,6 +2,7 @@
 import FEATURES from './documentation/codexarama-modal_FEATURES.PNG'
 import PROPS from './documentation/codexarama-modal_PROPS.PNG'
 import MORE from './documentation/codexarama-modal_MORE.PNG'
+import ARIA from './documentation/codexarama-modal_ARIA.png'
 import EXEMPLE from './documentation/codexarama-modal_EXEMPLE.PNG';
 
 // ASSETS
@@ -26,4 +27,5 @@ export { Modal };
 export { FEATURES }
 export { PROPS }
 export { MORE }
+export { ARIA }
 export { EXEMPLE }
