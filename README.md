@@ -180,7 +180,7 @@ export default function Exemple() {
 
         // DISABLE (optional)
         // disableBtn1={true}           // decomment to disable btn1
-        disableBtn2={true} // comment to enable btn2
+        disableBtn2={true}              // comment to enable btn2
 
         // HIDE (optional)
         // hideIcon={true}              // decomment to hide icon
